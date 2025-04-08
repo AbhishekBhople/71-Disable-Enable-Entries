@@ -63,4 +63,8 @@ public class ContactController {
 	private void m1() {
 		System.out.println("this is m1 method..");
 	}
+
+	private void m2() {
+		System.out.println("this is m2 method..");
+	}
 }
