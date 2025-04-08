@@ -59,4 +59,8 @@ public class ContactController {
 		String editedContact = contactService.editContact(contact);
 		return editedContact;
 	}
+
+	private void m1() {
+		System.out.println("this is m1 method..");
+	}
 }
