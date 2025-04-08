@@ -19,8 +19,6 @@ import com.app.service.ContactService;
 @RestController
 public class ContactController {
 
-	int x=10;
-
 	@Autowired
 	private ContactService contactService;
 
